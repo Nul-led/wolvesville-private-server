@@ -1,0 +1,11 @@
+{
+    "lobby::setup": "lobby-setup-chat",
+    "lobby::public": "lobby:chat-msg",
+    "game::public": "game:chat-public:msg",
+    "game::werewolves": "game:chat-werewolves:msg",
+    "game::zombie": "game:chat-zombie:msg",
+    "game::jailer": "game:chat-jailer:msg",
+    "game::medium": "game:chat-medium:msg",
+    "game::warden": "game:chat-warden:msg",
+    "game::bandit": "game:chat-bandit:msg"
+}
