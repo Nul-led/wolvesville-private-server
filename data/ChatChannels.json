@@ -5,7 +5,7 @@
     "game::werewolves": "game:chat-werewolves:msg",
     "game::zombie": "game:chat-zombie:msg",
     "game::jailer": "game:chat-jailer:msg",
-    "game::medium": "game:chat-medium:msg",
+    "game::medium": "game-medium-chat",
     "game::warden": "game:chat-warden:msg",
     "game::bandit": "game:chat-bandit:msg"
 }
