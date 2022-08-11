@@ -2,5 +2,6 @@
     "onlineMode": true,
     "verifyEmojiAccess": false,
     "verifyChatAccess": false,
-    "verifyMultiboxing": false
+    "verifyMultiboxing": false,
+    "verifyHeartbeat": false
 }
